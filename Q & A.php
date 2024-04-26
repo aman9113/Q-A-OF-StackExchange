@@ -1,4 +1,5 @@
 Q. How to Make a Custom Results Page for a Custom Post Type with Block Editor
+Q. How to Make a Custom Results Page for a Custom Post Type with Block Editor
 Solution :-
 
 **Step 1 PHP Code**
